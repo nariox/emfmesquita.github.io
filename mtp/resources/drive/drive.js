@@ -1,11 +1,8 @@
 // The API developer key obtained from the Google Developers Console.
-var developerKey = 'AIzaSyBdGhwHGGPjudzKOiIlbbWuOsatbYDsOBc';
+var developerKey = 'AIzaSyDEWxO8iD5tq5s4mYGqcTiY38v4PDsZruk';
 
 // The Client ID obtained from the Google Developers Console.
-var clientId = '1005266131738-tdv38pudoj50a5jgmbr6khoo3f9fj6pv.apps.googleusercontent.com'; // heroko
-if(location.hostname == "localhost"){
-	clientId = '1005266131738-ila30a9vn0camq1k1v2mlvpagn2do5lf.apps.googleusercontent.com'; // local
-}
+var clientId = '1005266131738-c6ggt55ta2976tu3d7o5jf82g76644cm.apps.googleusercontent.com'; // emfmesquita.github.io
 
 // Scope to use to access user's photos.
 var scopes = ['https://www.googleapis.com/auth/photos', 'https://www.googleapis.com/auth/drive'].join(' ');

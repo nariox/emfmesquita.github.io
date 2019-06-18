@@ -2,8 +2,8 @@ if(typeof mtp == 'undefined') mtp = {};
 (function() {
 	mtp.gapi = {
 		// The API developer key obtained from the Google Developers Console.
-		developerKey : 'AIzaSyBdGhwHGGPjudzKOiIlbbWuOsatbYDsOBc',
-		clientId : '1005266131738-tdv38pudoj50a5jgmbr6khoo3f9fj6pv.apps.googleusercontent.com', // heroko
+		developerKey : 'AIzaSyDEWxO8iD5tq5s4mYGqcTiY38v4PDsZruk',
+		clientId : '1005266131738-c6ggt55ta2976tu3d7o5jf82g76644cm.apps.googleusercontent.com', // emfmesquita.github.io
 		clientIdLocal : '1005266131738-ila30a9vn0camq1k1v2mlvpagn2do5lf.apps.googleusercontent.com', // local
 		// Scope to use to access user's files.
 		scopes : ['https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/drive.readonly.metadata'].join(' '),

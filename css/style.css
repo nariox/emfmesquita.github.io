@@ -767,14 +767,12 @@ a.icon {
 	width: 50%;
 }
 
-#contact .col-md-4 {
+#contact .col-lg-4 {
   background: #fff;
   padding: 62px 0px 32px 42px;
   position: relative;
   bottom: -50px;
 }
-
-
 
 /* footer section styles
 /* ========================================== */
